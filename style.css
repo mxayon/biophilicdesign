@@ -56,7 +56,7 @@ ul {
 .fibo-front {
   width: 1110px;
   height: 743px;
-  background-image: url(img/fibo-front-trans.png);
+  background-image: url(img/fibo-front.png);
   background-repeat: no-repeat;
   background-position: right center;
   left: 50%;
@@ -97,7 +97,7 @@ ul {
 
 /*image */
 .splash {
-  background: url("img/fibo-plant-blur.png") no-repeat fixed 100%;
+  background: url("img/fibo-blur.png") no-repeat fixed 100%;
   background-size: cover;
 }
 
@@ -236,8 +236,9 @@ footer {
   padding-bottom: 10%;
 }
 
-footer p {
+footer .foot-text p {
   color: #fff;
+  font-size: .8em;
   text-align: center;
   padding: 6px;
 }
