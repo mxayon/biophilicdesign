@@ -23,8 +23,8 @@ Inspired by the biophilic hypothesis, which is a sustainable design strategy tha
 ### Agile Release Train - Landscaping
 ![Landscaping](http://mxnkpl.com/biophilicdesign/img/setting-up.png)
 
-### A biophilic utopia
-![Utopia](http://mxnkpl.com/biophilicdesign/img/technolifecycle.png)
+### Screen Shots
+![Biophilic Design Project](mockup-biophilia.png)
 
 
 
