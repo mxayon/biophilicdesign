@@ -83,6 +83,7 @@ ul {
   height: 60px;
   width: auto;
 }
+
 #banner-wrapper {
   max-width: 1280px;
   z-index: 9999;
@@ -115,6 +116,20 @@ ul {
   position: relative;
 }
 
+.principles {
+  text-align: center;
+}
+
+.roles {
+  max-width: 105%;
+  height: auto;
+  margin-bottom: -15%;
+}
+
+.plant-creature {
+  margin-left: -50%;
+}
+
 /*end image */
 
 .one-half {
@@ -122,7 +137,7 @@ ul {
   float: left;
   margin: 2% 0 3% 4%;
   text-align: center;
-  padding-top: 10%
+  padding-top: 5%;
 }
 
 .one-third {
@@ -206,7 +221,7 @@ ul {
 
 .parallax-inner {
   padding-top: 20px;
-  padding-bottom: px;
+  padding-bottom: 10px;
 }
 
 .clearfix {
