@@ -16,10 +16,11 @@ Applying a design philosophy to communicate Agile and Lean methodologies.
 
 <br>
 
-Based on guides from [© Scaled Agile, Inc.](https://www.scaledagileframework.com/)
+- Based on guides from [© Scaled Agile, Inc.](https://www.scaledagileframework.com/)
 <br>
 This project is an idealistic vision of the Agile and Lean lifecycle to express similar patterns in their development and only "scratching the surface".
 <br>
+
 ---
 
 
@@ -31,8 +32,8 @@ This project is an idealistic vision of the Agile and Lean lifecycle to express 
 
 ***
 
-(Parallax website powered by jQuery, CSS, HTML.) |
-Brought to life by wonderful creatures found in Adobe Creative Cloud universe from
+- (Parallax website powered by jQuery, CSS, HTML.)
+- Brought to life by wonderful creatures found in Adobe Creative Cloud universe from
 [Zuco](https://zuco.myportfolio.com/).
 <br>
 <br>
