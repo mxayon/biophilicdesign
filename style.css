@@ -319,10 +319,12 @@ footer .logo{
   }
   .one-third {
     width: 100%;
+    height: auto;
     margin: 4% 0;
   }
   .one-half {
     width: 100%;
+    height: auto;
     margin: 4% 0;
     padding-bottom: 10%;
   }
@@ -332,10 +334,12 @@ footer .logo{
   }
   .left-col {
     width: 100%;
+    height: auto;
     margin: 0 0 3% 0;
   }
   .sidebar {
     width: 100%;
+    height: auto;
     margin: 0 0 3% 0;
   }
   img {
