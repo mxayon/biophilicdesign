@@ -5,6 +5,7 @@
 
 ## "Biophilia"
 ![Biophilic Building](https://inhabitat.com/wp-content/blogs.dir/1/files/2012/03/park-royal-WOHA-3.jpg)
+<br>
 Common in both building and city scale - "Biophilic Design"  - is used to increase connectivity to the natural environment.
 
 ## Biophilic Design Engineering
@@ -23,14 +24,13 @@ Inspired by the biophilic hypothesis, which is a sustainable design strategy tha
 ![Landscaping](http://mxnkpl.com/biophilicdesign/img/setting-up.png)
 
 ### A biophilic utopia
-![Utopia](http://mxnkpl.com/biophilicdesign/bioagility.html)
+![Utopia](http://mxnkpl.com/biophilicdesign/img/technolifecycle.png)
 
----
 
-#### About Website
-This is a Parallax website powered by jQuery, CSS, HTML.
-<br>
-Brought to life by wonderful creatures found in Adobe Creative Cloud universe from [Zuco](https://zuco.myportfolio.com/).
+
+| Parallax website powered by jQuery, CSS, HTML. |
+Brought to life by wonderful creatures found in Adobe Creative Cloud universe from
+[Zuco](https://zuco.myportfolio.com/).
 <br>
 <br>
 ----
