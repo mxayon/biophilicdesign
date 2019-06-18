@@ -1,6 +1,8 @@
  *A design shop inspired by nature's wisdom on sustainable growth.*
 
-### "BIOPHILIA": a hypothetical human tendency to interact or be closely associated with other forms of life in nature
+### BIOPHILIA | bio·​phil·​ia  | **noun** 
+<br>
+: a hypothetical human tendency to interact or be closely associated with other forms of life in nature
 
 > Visit [Biophilic Design](https://mxnkpl.com/biophilicdesign) for more information!
 
