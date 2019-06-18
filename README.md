@@ -1,9 +1,9 @@
-### A design shop inspired by nature's wisdom on sustainable growth.
+ *A design shop inspired by nature's wisdom on sustainable growth.*
 
+### "BIOPHILIA": a hypothetical human tendency to interact or be closely associated with other forms of life in nature
 
-# Visit [Biophilic Design](https://mxnkpl.com/biophilicdesign)
+> Visit [Biophilic Design](https://mxnkpl.com/biophilicdesign) for more information!
 
-## "Biophilia"
 ![Biophilic Building](https://inhabitat.com/wp-content/blogs.dir/1/files/2012/03/park-royal-WOHA-3.jpg)
 <br>
 Commonly used in communities, regarding both building or city scale -
@@ -37,6 +37,7 @@ This project is an idealistic vision of the Agile and Lean lifecycle to express 
 [Zuco](https://zuco.myportfolio.com/).
 <br>
 <br>
-----
+
+***
 
 [MXNKPL.COM](https://mxnkpl.com) | [Blog](https://mxnkpl.com/blog)
